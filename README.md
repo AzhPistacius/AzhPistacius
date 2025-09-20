@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=HELLO WORLD！&fontSize=24&fontAlign=50&fontAlignY=30&color=0:bb9af7,50:2ac3de,100:7aa2f7&fontColor=c0caf5" alt="footer"/>
+  <img src="assets/header-wave.svg" alt="Header Wave" />
 </p>
 
 ---
