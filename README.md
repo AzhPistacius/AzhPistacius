@@ -26,64 +26,7 @@
 
 # **🌟 Who Am I?**
 
-<div align="center">
 
-  <svg viewBox="0 0 900 80" width="100%" height="80" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Dynamic Roles Rotation">
-    <style>
-      /* Глобальная анимация показа в одном слоте (из TOTAL=35s): видимость ~4.2s */
-      @keyframes showOnce {
-        0%   { opacity: 0 }
-        8%   { opacity: 1 }  /* плавное появление */
-        20%  { opacity: 1 }  /* удержание видимости */
-        28%  { opacity: 0 }  /* исчезновение */
-        100% { opacity: 0 }
-      }
-
-      /* Базовые стили текста */
-      text {
-        fill: #7aa2f7;                       /* Tokyo Night accent */
-        font: 600 28px "Fira Code", "Segoe UI", Ubuntu, sans-serif;
-        text-anchor: middle;
-        dominant-baseline: middle;
-        opacity: 0;
-        filter: drop-shadow(0 0 6px #7aa2f7) drop-shadow(0 0 12px #2ac3de);
-      }
-
-      /* Одна анимация на всех, с общей длительностью */
-      .role {
-        animation: showOnce 35s infinite ease-in-out both; /* TOTAL=35s */
-      }
-
-      /* Псевдослучайный порядок (слоты кратны 5s): 
-         Порядок показа: Scientist → Pythonist → Student → Human → Analyst → Traveler → Friend */
-      .r-scientist { animation-delay: 0s;  }   /* SLOT #1 */
-      .r-pythonist { animation-delay: 5s;  }   /* SLOT #2 */
-      .r-student   { animation-delay: 10s; }   /* SLOT #3 */
-      .r-human     { animation-delay: 15s; }   /* SLOT #4 */
-      .r-analyst   { animation-delay: 20s; }   /* SLOT #5 */
-      .r-traveler  { animation-delay: 25s; }   /* SLOT #6 */
-      .r-friend    { animation-delay: 30s; }   /* SLOT #7 */
-
-      /* Адаптивные размеры на узких экранах */
-      @media (max-width: 480px) {
-        text { font-size: 22px; }
-      }
-    </style>
-
-    <!-- Центрирование по холсту -->
-    <rect width="100%" height="100%" fill="transparent"/>
-
-    <!-- Роли (все в одной точке; видимость управляется анимацией и задержками) -->
-    <text x="50%" y="50%" class="role r-scientist">Scientist</text>
-    <text x="50%" y="50%" class="role r-pythonist">Pythonist</text>
-    <text x="50%" y="50%" class="role r-student">Student</text>
-    <text x="50%" y="50%" class="role r-human">Human</text>
-    <text x="50%" y="50%" class="role r-analyst">Analyst</text>
-    <text x="50%" y="50%" class="role r-traveler">Traveler</text>
-    <text x="50%" y="50%" class="role r-friend">Friend</text>
-  </svg>
-
-</div>
 
 Hey there! 👋 I'm Artem Azhdarian, an AI/ML engineer currently at <a href="https://rt-ib.ru/">RT‑Information Security</a> and a student in <a href="https://www.hse.ru/en/">HSE University</a>.
 ## 🎓 Education
