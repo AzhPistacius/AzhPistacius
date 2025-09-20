@@ -36,6 +36,12 @@ Hey there! 👋 I'm **Artem Azhdarian**, a passionate AI/ML engineer currently w
 
 ## 🚀 Current Focus & Interests
 
+<div align="center">
+
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
 **💼 Professional Expertise:**
 - Machine Learning Engineering
 - Python Development & SQL Analytics
