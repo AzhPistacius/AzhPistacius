@@ -3,12 +3,14 @@
 # 🚀 Welcome to My Digital Universe! 
 ### I'm Artem Azhdarian — AI/ML Engineer & Research Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Student+Researcher;Python+%26+Data+Science+Expert;HSE+Graduate+%26+Cybersecurity+Analyst;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Student+%2F+Researcher;Python+%26+Data+Science+Expert;HSE+Graduate+%26+Cybersecurity+Analyst;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=AzhPistacius&style=for-the-badge&color=36BCF7)
-![Years Badge](https://badges.pufler.dev/years/AzhPistacius?style=for-the-badge&color=36BCF7&logo=github)
-![Repos Badge](https://badges.pufler.dev/repos/AzhPistacius?style=for-the-badge&color=36BCF7&logo=github)
-![Commits Badge](https://badges.pufler.dev/commits/monthly/AzhPistacius?style=for-the-badge&color=36BCF7&logo=github)
+<div align="center">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzhPistacius&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 
 </div>
 
