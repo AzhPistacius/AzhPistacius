@@ -127,8 +127,6 @@ Hey there! 👋 I'm **Artem Azhdarian**, a passionate AI/ML engineer currently w
 
 <div align="center">
 
-[![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzhPistacius&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AzhPistacius&theme=tokyonight" />
 <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AzhPistacius&theme=tokyonight" />
 
