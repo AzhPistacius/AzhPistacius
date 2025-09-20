@@ -1,8 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=HELLO WORLD！&fontSize=24&fontAlign=50&fontAlignY=30&color=0:bb9af7,50:2ac3de,100:7aa2f7&fontColor=c0caf5" alt="footer"/>
+</p>
 
-
+---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2600&pause=900&center=true&vCenter=true&width=720&color=7AA2F7&lines=AI+%2F+ML+Engineer;Student+%2F+Researcher;Python+%26+Data+Science+Expert;HSE+Graduate+%26+Cybersecurity+Analyst;Always+Learning%2C+Always+Growing+🌱" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3600&pause=600&center=true&vCenter=true&width=720&color=7AA2F7&lines=AI+%2F+ML+Engineer;Student+%2F+Researcher;Python+%26+Data+Science+Expert;HSE+Graduate+%26+Cybersecurity+Analyst;Always+Learning%2C+Always+Growing+🌱" alt="Typing SVG"/>
 </div>
 
 ---
@@ -25,8 +28,6 @@
 ---
 
 # **🌟 Who Am I?**
-
-
 
 Hey there! 👋 I'm Artem Azhdarian, an AI/ML engineer currently at <a href="https://rt-ib.ru/">RT‑Information Security</a> and a student in <a href="https://www.hse.ru/en/">HSE University</a>.
 ## 🎓 Education
