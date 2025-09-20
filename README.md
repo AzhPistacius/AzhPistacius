@@ -1,142 +1,182 @@
-<div align="center">
-  
-# 🚀 Welcome to My Digital Universe! 
-### I'm Artem Azhdarian — AI/ML Engineer & Research Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Student+%2F+Researcher;Python+%26+Data+Science+Expert;HSE+Graduate+%26+Cybersecurity+Analyst;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+
 
 <div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzhPistacius&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2600&pause=900&center=true&vCenter=true&width=720&color=7AA2F7&lines=AI+%2F+ML+Engineer;Student+%2F+Researcher;Python+%26+Data+Science+Expert;HSE+Graduate+%26+Cybersecurity+Analyst;Always+Learning%2C+Always+Growing+🌱" alt="Typing SVG"/>
 </div>
 
 ---
 
-## 🌟 Who Am I?
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=AzhPistacius&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub stats"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzhPistacius&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
+  </a>
+</div>
 
-Hey there! 👋 I'm **Artem Azhdarian**, a passionate AI/ML engineer currently working at [**RT-Information Security**](https://rt-ib.ru/).
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AzhPistacius&theme=tokyonight&no-frame=true&no-bg=true&column=6" alt="trophies"/>
+  </a>
+</div>
 
-### 🎓 **Education Journey**  
-- **HSE University Graduate** - Bachelor's in Computer Science and Engineering
+---
 
-**Bachelor's Thesis:** ["Development of an Adaptive Self-Management System for Competitive Agents Based on Reinforcement Learning"](https://www.hse.ru/edu/vkr/1045749157)
+# **🌟 Who Am I?**
 
-- **Currently pursuing Master's** in Big Data Analytics at HSE University
+<div align="center">
 
+  <svg viewBox="0 0 900 80" width="100%" height="80" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Dynamic Roles Rotation">
+    <style>
+      /* Глобальная анимация показа в одном слоте (из TOTAL=35s): видимость ~4.2s */
+      @keyframes showOnce {
+        0%   { opacity: 0 }
+        8%   { opacity: 1 }  /* плавное появление */
+        20%  { opacity: 1 }  /* удержание видимости */
+        28%  { opacity: 0 }  /* исчезновение */
+        100% { opacity: 0 }
+      }
 
-### 🌍 **Language Proficiency** 
+      /* Базовые стили текста */
+      text {
+        fill: #7aa2f7;                       /* Tokyo Night accent */
+        font: 600 28px "Fira Code", "Segoe UI", Ubuntu, sans-serif;
+        text-anchor: middle;
+        dominant-baseline: middle;
+        opacity: 0;
+        filter: drop-shadow(0 0 6px #7aa2f7) drop-shadow(0 0 12px #2ac3de);
+      }
+
+      /* Одна анимация на всех, с общей длительностью */
+      .role {
+        animation: showOnce 35s infinite ease-in-out both; /* TOTAL=35s */
+      }
+
+      /* Псевдослучайный порядок (слоты кратны 5s): 
+         Порядок показа: Scientist → Pythonist → Student → Human → Analyst → Traveler → Friend */
+      .r-scientist { animation-delay: 0s;  }   /* SLOT #1 */
+      .r-pythonist { animation-delay: 5s;  }   /* SLOT #2 */
+      .r-student   { animation-delay: 10s; }   /* SLOT #3 */
+      .r-human     { animation-delay: 15s; }   /* SLOT #4 */
+      .r-analyst   { animation-delay: 20s; }   /* SLOT #5 */
+      .r-traveler  { animation-delay: 25s; }   /* SLOT #6 */
+      .r-friend    { animation-delay: 30s; }   /* SLOT #7 */
+
+      /* Адаптивные размеры на узких экранах */
+      @media (max-width: 480px) {
+        text { font-size: 22px; }
+      }
+    </style>
+
+    <!-- Центрирование по холсту -->
+    <rect width="100%" height="100%" fill="transparent"/>
+
+    <!-- Роли (все в одной точке; видимость управляется анимацией и задержками) -->
+    <text x="50%" y="50%" class="role r-scientist">Scientist</text>
+    <text x="50%" y="50%" class="role r-pythonist">Pythonist</text>
+    <text x="50%" y="50%" class="role r-student">Student</text>
+    <text x="50%" y="50%" class="role r-human">Human</text>
+    <text x="50%" y="50%" class="role r-analyst">Analyst</text>
+    <text x="50%" y="50%" class="role r-traveler">Traveler</text>
+    <text x="50%" y="50%" class="role r-friend">Friend</text>
+  </svg>
+
+</div>
+
+Hey there! 👋 I'm Artem Azhdarian, an AI/ML engineer currently at <a href="https://rt-ib.ru/">RT‑Information Security</a> and a student in <a href="https://www.hse.ru/en/">HSE University</a>.
+## 🎓 Education
+
+<p align="left">
+  <a href="https://www.hse.ru/en/">
+    <img src="https://img.shields.io/badge/HSE%20University-Official%20Site-7aa2f7?style=for-the-badge&labelColor=1a1b26&color=7aa2f7" alt="HSE University Badge"/>
+  </a> <!-- [web:91][web:97][web:100] -->
+</p>
+
+- **HSE University** — **Bachelor**'s in Computer Science and Engineering; thesis: “Development of an Adaptive Self‑Management System for Competitive Agents Based on Reinforcement Learning”
+- **HSE University** — **Master**'s student in Big Data Analytics at HSE University
+
+## 🌍 Languages
+
+<p align="left">
+  <a href="https://englishonline.britishcouncil.org/ielts-coach-get-the-score/">
+    <img src="https://img.shields.io/badge/IELTS%20Coach%20British%20Council-Official%20Site-7aa2f7?style=for-the-badge&labelColor=1a1b26&color=7aa2f7" alt="IELTS Coach British Council"/>
+  </a> <!-- [web:91][web:97][web:100] -->
+</p>
+
 - Russian (Native)
-- English (B2 IELTS)
+- English (IELTS B2)
 
----
+## 🚀 Inspiration
 
-## 🚀 Current Focus & Interests
-
-<div align="center">
-
-![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-**💼 Professional Expertise:**
-- Machine Learning Engineering
-- Python Development & SQL Analytics
-- API Development with FastAPI
-
-**🎯 Personal Passions:**
-- 🎲 Dungeons & Dragons campaigns
-- 🌍 Travel & adventure photography  
-
-<br clear="left"/>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=36BCF7)](https://t.me/AzhPistacius)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F)](https://instagram.com/AzhPistacius)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/AzhPistacius)
-
-
+<div align="left">
+  <a href="https://github.com/PiyushSuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes"/>
+  </a> <!-- [web:83][web:77] -->
 </div>
 
 ---
 
-## 💻 Tech Arsenal
+# **📫 Let's Connect!**
 
-### 🚀 Core Technologies
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-
-</div>
-
-### 🤖 Machine Learning
-<div align="center">
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-</div>
-
-### 🛠 Development Tools & DevOps  
-<div align="center">
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![mypy](https://img.shields.io/badge/mypy-checked-2A6DB2.svg?style=for-the-badge)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-
-</div>
+<p align="center">
+  <a href="https://t.me/AzhPistacius">
+    <img src="https://img.shields.io/badge/Telegram-AzhPistacius-2ac3de?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1b26" alt="Telegram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/AzhPistacius">
+    <img src="https://img.shields.io/badge/GitHub-AzhPistacius-bb9af7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b26" alt="GitHub"/>
+  </a> 
+</p>
 
 ---
 
-## 🏆 Academic & Professional Achievements
+# **💻 Tech Arsenal**
 
-### 📚 Academic Excellence
+## 🚀 Core 
+<p>
+  <img src="https://img.shields.io/badge/Python-7aa2f7?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1b26"/>
+  <img src="https://img.shields.io/badge/SQL-2ac3de?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1b26"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-7dcfff?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1b26"/>
+  <img src="https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1a1b26"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-e0af68?style=for-the-badge&logo=elasticsearch&logoColor=1a1b26&labelColor=1a1b26"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-9ece6a?style=for-the-badge&logo=huggingface&logoColor=1a1b26&labelColor=1a1b26"/>
+  <img src="https://img.shields.io/badge/Docker-2ac3de?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1b26"/>
+  <img src="https://img.shields.io/badge/Git-bb9af7?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b26"/>
+  <img src="https://img.shields.io/badge/GitHub-7aa2f7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b26"/>
+  <img src="https://img.shields.io/badge/GitLab-f7768e?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=1a1b26"/>
+  <img src="https://img.shields.io/badge/Postman-ff9e64?style=for-the-badge&logo=postman&logoColor=1a1b26&labelColor=1a1b26"/>
+  <img src="https://img.shields.io/badge/DBeaver-7dcfff?style=for-the-badge&logo=dbeaver&logoColor=1a1b26&labelColor=1a1b26"/>
+</p>
 
-**🎓 Graduate Achievement:** Successfully defended my Bachelor's thesis on "Development of Adaptive Self-Management System for Competitive Agents Based on Reinforcement Learning" at HSE University with honors.
+## 🐍 Python
 
-### 🎤 Conference Presentations
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-f7768e?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1a1b26"/>
+  <img src="https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1a1b26"/>
+  <img src="https://img.shields.io/badge/Aiogram-2ac3de?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1b26"/>
+  <img src="https://img.shields.io/badge/pytest-7aa2f7?style=for-the-badge&logo=pytest&logoColor=white&labelColor=1a1b26"/>
+  <img src="https://img.shields.io/badge/pandas-7dcfff?style=for-the-badge&logo=pandas&logoColor=1a1b26&labelColor=1a1b26"/>
+  <img src="https://img.shields.io/badge/NumPy-bb9af7?style=for-the-badge&logo=numpy&logoColor=1a1b26&labelColor=1a1b26"/>
+  <img src="https://img.shields.io/badge/scikit--learn-e0af68?style=for-the-badge&logo=scikitlearn&logoColor=1a1b26&labelColor=1a1b26"/>
+  <img src="https://img.shields.io/badge/Pydantic-9ece6a?style=for-the-badge&logo=pydantic&logoColor=1a1b26&labelColor=1a1b26"/>
+  <img src="https://img.shields.io/badge/mypy-2ac3de?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1b26"/>
+  <img src="https://img.shields.io/badge/ruff-f7768e?style=for-the-badge&logo=ruff&logoColor=white&labelColor=1a1b26"/>
+  <img src="https://img.shields.io/badge/pre--commit-9ece6a?style=for-the-badge&logo=pre-commit&logoColor=1a1b26&labelColor=1a1b26"/>
+</p> 
 
-**📈 Research Conferences:**
+---
+
+# **🎤 Talks & Highlights**
+
+
 - **[The Youth in Science: Challenges and Prospects](https://lang.hse.ru/en/theyouthinscience/)** 
 - **[Armensky Scientific Student Conference](https://miem.hse.ru/armntk)**
 
-
-
 ---
 
-## 📊 GitHub Analytics Dashboard
-
-<div align="center">
-
-<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AzhPistacius&theme=tokyonight" />
-<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AzhPistacius&theme=tokyonight" />
-
-<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AzhPistacius&theme=tokyonight" />
-<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AzhPistacius&theme=tokyonight&utcOffset=3" />
-
-</div>
-
-
-
----
 
 
