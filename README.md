@@ -30,7 +30,7 @@
 
 # **🌟 Who Am I?**
 
-Hey there! 👋 I'm Artem Azhdarian, an AI/ML engineer currently at <a href="https://rt-ib.ru/">RT‑Information Security</a> and a student in <a href="https://www.hse.ru/en/">HSE University</a>.
+Hey there! 👋 I'm Artem Azhdarian, an ML engineer currently at <a href="https://rt-ib.ru/">RT‑Information Security</a> and a student in <a href="https://www.hse.ru/en/">HSE University</a>.
 ## 🎓 Education
 
 <p align="left">
